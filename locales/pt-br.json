@@ -4,8 +4,8 @@
     "washing": "Veículo está sendo lavado...",
     "canceled": "Cancelado...",
     "not_dirty": "O veículo não está sujo",
-    "not_available": "O lava-rápido não está disponível...",
+    "not_available": "O lava-jato não está disponível...",
     "no_money": "Você não tem dinheiro suficiente...",
     "reason": "Carro Lavado",
-    "label": "Lava-Rápido"
+    "label": "Lava-Jato"
 }
